@@ -1,0 +1,17 @@
+EXERCISES OF UNIT 3 OF SI
+
+cd /home/student
+mkdir systems
+mkdir exersices
+cd /home/student/exersices
+mkdir programming
+rm -rf exersices
+mkdir -p exercises/programming
+ls -root
+ls /usr/sbin/d*
+ls -all /etc 
+ls /systems/i*
+ls /systens/*txt
+mkdir config $HOME
+cp /etc/a* $HOME/config
+rm $HOME/config/*conf
